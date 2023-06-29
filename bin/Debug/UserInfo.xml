@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <chatId>771040758</chatId>
+    <word>кульок</word>
+    <shifr>кульок</shifr>
+    <try>2</try>
+    <wins>7</wins>
+    <loses>4</loses>
+  </user>
+  <user>
+    <chatId>727073514</chatId>
+    <word>газон</word>
+    <shifr>газон</shifr>
+    <try>1</try>
+    <wins>2</wins>
+    <loses>0</loses>
+  </user>
+</users>
